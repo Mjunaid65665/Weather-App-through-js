@@ -1,7 +1,7 @@
 **Weather App – JavaScript Project**
 A modern and responsive Weather Application built using HTML, CSS, and JavaScript, which fetches real-time weather data using the OpenWeather API. This project is designed to demonstrate clean code structure, API integration skills, and frontend development best practices.
+**live Demo link:** https://mjunaid65665.github.io/Weather-App-through-js/
 **Features**
-
 🔍 Search weather by city name
 
 🌡️ Displays temperature in Celsius
